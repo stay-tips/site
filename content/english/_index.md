@@ -1,9 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Unleash Your Hospitality Brilliance <br /> Decentralized Hospitality System"
-  description: "Securing Your Digital World: Your Trusted Partner in Data Protection with <br />
-  Cutting-Edge Solutions for Comprehensive Data Security."
+  title: "Unleash Your Hospitality Brilliance <br /> Hospitality System"
+  : "Bringing Rental Market Onchain: Go to remtal market place built on the Blockchain."
   image:
     main: "/images/banner.png"
     left: "/images/banner-left.png"
