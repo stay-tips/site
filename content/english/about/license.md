@@ -73,8 +73,8 @@ d) Upon termination, Licensee must cease all use of the Web Site and delete all 
 
 ## 10. GENERAL PROVISIONS.
 
-a) **Applicable Law**: This License shall be governed by and construed in accordance with the laws of [INSERT JURISDICTION], without regard to principles of conflict of laws.
-b) **Dispute Resolution**: Any dispute arising out of or relating to this License shall be resolved by binding arbitration in accordance with the rules of [INSERT ARBITRATION AUTHORITY].
+a) **Applicable Law**: This License shall be governed by and construed in accordance with the Italian laws, without regard to principles of conflict of laws.
+b) **Dispute Resolution**: Any dispute arising out of or relating to this License shall be resolved by binding arbitration in accordance with the rules of Civil Italian Low located in Milan.
 c) **Comprehensive Agreement**: This License constitutes the entire agreement between Licensor and Licensee regarding the subject matter hereof and supersedes all prior or contemporaneous agreements and understandings.
 d) **Separability**: If any provision of this License is held invalid or unenforceable, such provision shall be construed to the maximum extent possible to reflect the intentions of the parties, and the remaining provisions shall remain in full force and effect.
 e) **Waiver**: No waiver of any term or condition of this License shall be deemed a further or continuing waiver of such term or condition or any other term or condition.
@@ -82,6 +82,6 @@ f) **Modifications**: Licensor reserves the right to modify this License at any 
 
 ---
 
-Date of last revision: [INSERT DATE]
+Date of last revision: March 2025
 
-© [INSERT COMPANY/ORGANIZATION NAME] - All rights reserved.
+© Stay Tips - All rights reserved.
