@@ -1,6 +1,6 @@
 ---
 # Banner
-banner:
+banner:Stay Tips
   title: "Unleash Your Hospitality Brilliance <br /> Hospitality System"
   : "Bringing Rental Market Onchain: Go to rental marketplace built on the Blockchain."
   image:
