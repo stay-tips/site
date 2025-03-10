@@ -1,6 +1,6 @@
 ---
 meta_title: "About"
-title: "About Fortify, Our Commitment to Securing Your Data"
+title: "About Stay Tips, Our Commitment to Short Term Rentals"
 subtitle: "About Us"
 description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
 left_image: "/images/about/about-2.jpg"
