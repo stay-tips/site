@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Your Trusted Partner in <br /> Comprehensive Web Security"
+  title: "Unleash Your Hospitality Brilliance <br /> Decentralized Hospitality System"
   description: "Securing Your Digital World: Your Trusted Partner in Data Protection with <br />
   Cutting-Edge Solutions for Comprehensive Data Security."
   image:
