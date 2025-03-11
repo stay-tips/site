@@ -44,7 +44,7 @@ explained_features:
 
 # Pricing
 pricing:
-  title: "Choose a suitable plan"
+  title: "Choose a suitable plan for pricing"
   subtitle: "Pricing & Plan"
   description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br /> Comprehensive Data Security."
 
