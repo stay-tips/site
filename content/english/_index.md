@@ -22,7 +22,7 @@ banner:
 #How it Works
 how_it_works:
   subtitle: "How Stay Tips works"
-  title: "Our solution consists of three apps"
+  title: "What we offer"
   description: "Our solution operates through three seamlessly connected apps: Guest, Host, and Partner. Each app is designed for its specific user:
 
 Host App – Used by hosts to manage their experience.
