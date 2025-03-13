@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Unleash Your Hospitality Brilliance <br /> Hospitality System"
+  title: "Unleash your Hospitality Brilliance <br /> Hospitality System"
   description: "Bringing Rental Market Onchain: Go to rental marketplace built on the Blockchain."
   image:
     main: "/images/banner.png"
@@ -21,19 +21,22 @@ banner:
 
 #How it Works
 how_it_works:
-  subtitle: "How it works"
-  title: "How Fortify Security Solution Works"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br />
-  Comprehensive Data Security."
+  subtitle: "How Stay Tips works"
+  title: "Our solution consists of three apps"
+  description: "Our solution operates through three seamlessly connected apps: Guest, Host, and Partner. Each app is designed for its specific user:
+
+Host App – Used by hosts to manage their experience.
+Guest App – Designed for guests to interact with the system effortlessly.
+Partner App – Tailored for partners to access relevant services."
   features:
-    - title: "Advanced Detection"
-      description: "Our system continuously monitors your network and data environments for any suspicious activities."
+    - title: "Cross-Platform Compatibility:"
+      description: "Available as both native and web-based apps, all communicating with the backend via API."
       icon: "fa-solid fa-spinner" 
-    - title: "Robust Data Encryption"
-      description: "We ensure that all sensitive data is encrypted and at rest, using industry-standard encryption protocols."
+    - title: "AI-Powered Voice Assistant "
+      description: "Each app features a user-friendly interface and an intelligent voice assistant that interacts with users.."
       icon: "fa-solid fa-code-branch" 
-    - title: "Automated Response"
-      description: "In the event of a security incident, our automated response system takes immediate action."
+    - title: "Blockchain-Driven Backend"
+      description: "A central AI powers blockchain-based functionalities while also managing off-chain features via a graph.This smart ecosystem ensures a seamless and efficient experience for all users."
       icon: "fa-solid fa-wand-sparkles" 
 
 # Explained Features 
