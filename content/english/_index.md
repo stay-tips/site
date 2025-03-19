@@ -12,7 +12,7 @@ banner:
   button:
     get_started:
       enable: true
-      label: "Get Started"
+      label: "Get Started Today"
       link: "contact"
     learn_more:
       enable: true
@@ -21,7 +21,7 @@ banner:
 
 #How it Works
 how_it_works:
-  subtitle: "How Stay Tips works"
+  subtitle: "A Broken System, Reinvented"
   title: "What Stay Tips offers"
   description: "Our solution operates through three seamlessly connected apps: Guest, Host, and Partner. Each app is designed for its specific user:
 
