@@ -23,7 +23,7 @@ banner:
 how_it_works:
   subtitle: "A Broken System, Reinvented"
   title: "What Stay Tips offers"
-  description: "Our solution operates through three seamlessly connected apps: Guest, Host, and Partner. Each app is designed for its specific user:
+  description: "Today’s hospitality, slowed by manual work, disconnected partners, and shaky trust, is redefined by Stay Tips with smart contracts for secure bookings without middlemen, AI automation for effortless 5-star stays, and a partner network where local providers compete to exceed expectations—say goodbye to complexity and hello to brilliance.
 
 Host App – Used by hosts to manage their experience.
 Guest App – Designed for guests to interact with the system effortlessly.
