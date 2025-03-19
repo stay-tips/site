@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Unleash your Hospitality Brilliance with Stay Tips <br /> Hospitality System"
-  description: "Bringing Rental Market Onchain: Go to rental marketplace built on the Blockchain."
+  description: " Transform your short-term rental experience with AI, blockchain, and automation – designed for Italy’s €13B market."
   image:
     main: "/images/banner.png"
     left: "/images/banner-left.png"
